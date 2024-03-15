@@ -174,9 +174,72 @@ int main()
 ```
 
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
 
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
+
+
+Kode di atas adalah program yang menggunakan array untuk menyimpan beberapa nilai integer. Array tersebut bernama `nilai` dan memiliki panjang 5. Nilai-nilai tersebut diinisialisasi secara terpisah untuk setiap elemen array menggunakan indeks 0 hingga 4.
+
+Selanjutnya, program mencetak setiap nilai dari array `nilai` ke layar menggunakan perintah `cout`. Hasilnya adalah mencetak nilai dari setiap elemen array, yaitu nilai[0], nilai[1], nilai[2], nilai[3], dan nilai[4], secara berurutan. Program kemudian mengembalikan nilai 0, menandakan bahwa program berjalan dengan sukses.
+
+
+## Unguided
+
+### 1. Buatlah program menggunakan tipe data primitif minimal dua fungsi dan bebas. Menampilkan program, jelaskan program tersebut dan ambil kesimpulan dari materi tipe data primitif!
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+  // Tipe data primitif untuk panjang dan lebar
+  int panjang, lebar;
+
+  // Meminta input dari pengguna
+  cout << "Masukkan panjang persegi panjang: ";
+  cin >> panjang;
+  cout << "Masukkan lebar persegi panjang: ";
+  cin >> lebar;
+
+  // Menghitung luas dan keliling
+  int luas = panjang * lebar;
+  int keliling = 2 * (panjang + lebar);
+
+  // Menampilkan hasil
+  cout << "Luas persegi panjang: " << luas << endl;
+  cout << "Keliling persegi panjang: " << keliling << endl;
+
+  return 0;
+}
+```
+
+### Output:
+
+
+
+int panjang, lebar: Mendeklarasikan dua variabel panjang dan lebar dengan tipe data int (integer) untuk menyimpan nilai panjang dan lebar persegi panjang. cout << "Masukkan panjang persegi panjang: ";: Menampilkan pesan "Masukkan panjang persegi panjang: " ke layar.
+cin >> panjang: Membaca input dari pengguna dan menyimpannya ke variabel panjang.
+cout << "Masukkan lebar persegi panjang: ";: Menampilkan pesan "Masukkan lebar persegi panjang: " ke layar.
+cin >> lebar: Membaca input dari pengguna dan menyimpannya ke variabel lebar. int luas = panjang * lebar: Menghitung luas persegi panjang dengan mengalikan nilai panjang dan lebar.
+int keliling = 2 * (panjang + lebar): Menghitung keliling persegi panjang dengan rumus 2 * (panjang + lebar). cout << "Luas persegi panjang: " << luas << endl;: Menampilkan pesan "Luas persegi panjang: " diikuti dengan nilai luas ke layar.
+cout << "Keliling persegi panjang: " << keliling << endl;: Menampilkan pesan "Keliling persegi panjang: " diikuti dengan nilai keliling ke layar.
+
+#### Kesimpulan materi tipe data primitif:
+
+Kesimpulan dari materi di atas adalah bahwa tipe data primitif adalah klasifikasi jenis data yang sudah ditentukan oleh sistem dan disediakan oleh berbagai bahasa pemrograman. Contoh tipe data primitif meliputi int untuk menyimpan bilangan bulat, float untuk bilangan desimal, char untuk huruf atau simbol, dan boolean untuk menyimpan nilai boolean dengan dua kemungkinan nilai, yaitu true atau false.
+
+### 2. Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya
+
+#### Class
+
+Class adalah suatu fitur dalam pemrograman berorientasi objek (OOP) yang memungkinkan programmer untuk membuat struktur data yang kompleks. Class digunakan untuk mendefinisikan sebuah tipe data baru yang dapat menyimpan data (atribut) dan perilaku (metode) bersama-sama. Dengan kata lain, class dapat digambarkan sebagai "blueprint" atau cetak biru untuk menciptakan objek. Setiap objek yang dibuat dari suatu class memiliki atribut dan metode yang sama, namun nilainya bisa berbeda.
+
+#### Struct
+
+Struct, singkatan dari structure, juga digunakan untuk membuat struktur data, tetapi memiliki perbedaan utama dengan class. Struct tidak memiliki kemampuan untuk menyembunyikan akses ke atribut atau metodenya, dan secara default bersifat public. Ini berarti semua anggota struct dapat diakses langsung dari luar struct.
+
+#### Perbedaan
+
+Perbedaan utama antara class dan struct adalah pada hak akses defaultnya. Dalam class, anggota bersifat private secara default, sementara dalam struct bersifat public secara default. Dengan class, kita dapat menggunakan hak akses private untuk menyembunyikan implementasi internal dari pengguna class, sementara struct lebih terbuka dan digunakan terutama untuk menyimpan data tanpa perilaku yang kompleks.
 
 #### Contoh Program
 
@@ -263,4 +326,7 @@ Singkatnya, array cocok untuk situasi dengan data yang memiliki ukuran tetap dan
 Pemahaman tipe data, struktur data, dan konsep class/struct merupakan dasar yang penting dalam pemrograman. Tipe data primitif menyediakan dasar untuk menyimpan informasi, tipe data abstrak memberikan fleksibilitas, dan tipe data koleksi memungkinkan pengelolaan data yang terstruktur. Class dan struct memberikan kemampuan untuk membuat struktur data yang kompleks, sementara array dan map menyediakan cara penyimpanan yang berbeda untuk data yang beragam. Program-program contoh memberikan implementasi praktis dari konsep-konsep ini.
 
 ## Referensi
-[1] I. Holm, Narrator, and J. Fullerton-Smith, Producer, How to Build a Human [DVD]. London: BBC; 2002.
+
+[1] Paul J. Deitel and Harvey M. Deitel, C++20 Programming - Fundamentals to Advanced Features, 1st ed. Boston, MA, USA: Pearson, 2020.
+
+[2] "cppreference", [Online]. Available: https://en.cppreference.com/w/. [Accessed: March 7, 2024].
