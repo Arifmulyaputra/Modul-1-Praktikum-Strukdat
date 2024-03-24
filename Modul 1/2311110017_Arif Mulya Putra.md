@@ -97,6 +97,8 @@ Tipe data koleksi memungkinkan pengelolaan dan akses data yang lebih terstruktur
 ```
 ### Output:
 
+![image](https://github.com/Arifmulyaputra/Praktikum-Struktur-Data-Assignment/assets/161549884/c721db67-d7e6-47c6-b29f-8640f0d20fa2)
+
    
 penjelasan kodingan:
 Kode di atas adalah program yang meminta pengguna untuk memasukkan operator matematika (+, -, \*, /) dan dua bilangan floating-point. Setelah menerima input, program menggunakan switch statement untuk melakukan operasi sesuai dengan operator yang dimasukkan. Hasil operasi tersebut kemudian dicetak ke layar. Jika operator yang dimasukkan tidak sesuai dengan yang sudah disediakan, maka program akan mencetak pesan error. Program berakhir setelah operasi selesai dan hasilnya ditampilkan.
@@ -142,6 +144,7 @@ int main()
 
 ### Output:
 
+![image](https://github.com/Arifmulyaputra/Praktikum-Struktur-Data-Assignment/assets/161549884/ea4d4098-63ea-485a-b693-98522598e106)
 
 
 Kode di atas merupakan program yang menggunakan struktur data atau struct untuk merepresentasikan informasi mahasiswa. Dalam struct `Mahasiswa`, terdapat tiga anggota yaitu `name` (nama), `address` (alamat), dan `age` (umur). Program kemudian membuat dua variabel bertipe struct Mahasiswa, yaitu `mhs1` dan `mhs2`, dan mengisi nilai untuk masing-masing variabel.
@@ -175,6 +178,7 @@ int main()
 
 #### Output:
 
+![image](https://github.com/Arifmulyaputra/Praktikum-Struktur-Data-Assignment/assets/161549884/166bf084-634f-4705-a358-de6dbb1468c7)
 
 
 Kode di atas adalah program yang menggunakan array untuk menyimpan beberapa nilai integer. Array tersebut bernama `nilai` dan memiliki panjang 5. Nilai-nilai tersebut diinisialisasi secara terpisah untuk setiap elemen array menggunakan indeks 0 hingga 4.
@@ -214,6 +218,7 @@ int main() {
 
 ### Output:
 
+![image](https://github.com/Arifmulyaputra/Praktikum-Struktur-Data-Assignment/assets/161549884/2ac5375b-c17a-42b2-85f4-cee97e759209)
 
 
 int panjang, lebar: Mendeklarasikan dua variabel panjang dan lebar dengan tipe data int (integer) untuk menyimpan nilai panjang dan lebar persegi panjang. cout << "Masukkan panjang persegi panjang: ";: Menampilkan pesan "Masukkan panjang persegi panjang: " ke layar.
@@ -270,6 +275,7 @@ int main() {
 
 ### Output:
 
+![image](https://github.com/Arifmulyaputra/Praktikum-Struktur-Data-Assignment/assets/161549884/c7f45382-f9a9-4103-bbb2-015888d1343d)
 
 
 class Person: Mendeklarasikan kelas Person.
@@ -309,6 +315,7 @@ int main() {
 ```
 ### Output:
 
+![image](https://github.com/Arifmulyaputra/Praktikum-Struktur-Data-Assignment/assets/161549884/cfbf629f-bd7c-4905-9232-eb8c811d52aa)
 
 
 Kode di atas menggunakan struktur data map untuk menyimpan pasangan nilai (key-value). Key dalam hal ini adalah indeks, dan value adalah nilai yang terkait. Setelah map diinisialisasi dan diisi dengan beberapa pasangan nilai, program menggunakan loop for untuk mencetak nilai dari setiap pasangan. Hasilnya adalah mencetak nilai-nilai tersebut ke layar tanpa nomor indeks array tertentu.
