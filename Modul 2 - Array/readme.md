@@ -61,6 +61,9 @@ int main ()
 
 #### Output:
 
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/14f63127-dd9f-4732-bd89-e04ae26cb543)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/7f4b2eda-9330-492a-ba59-78f0789761a6)
+
 
 
  Array multidimensi memiliki kesamaan dengan array satu dimensi dan
@@ -102,7 +105,7 @@ int main()
 
 #### Output:
 
-
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/4d773139-192d-405e-bbbd-f100ad2c8333)
 
 ## Unguided
 
@@ -152,6 +155,7 @@ int main() {
 
 #### Output:
 
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/3e5c99d7-6cd5-44a8-9ec9-d1154f870286)
 
 
 Deklarasi Variabel dan Input Pengguna: Program dimulai dengan mendeklarasikan variabel n untuk menyimpan jumlah elemen array yang akan dimasukkan oleh pengguna. Pengguna diminta untuk memasukkan jumlah elemen array tersebut.
@@ -213,6 +217,9 @@ int main() {
 
 #### Output:
 
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/ab038074-6003-4319-8158-473743f5968b)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/7ce58cd1-e6f3-4fb2-a69c-7705a98dcd6f)
+
 
 
 Deklarasi Variabel dan Input Pengguna: Program dimulai dengan mendeklarasikan variabel m, n, dan o untuk menyimpan jumlah baris, kolom, dan layer array tiga dimensi. Pengguna diminta untuk memasukkan jumlah baris, kolom, dan layer array tersebut.
@@ -272,7 +279,7 @@ int main() {
 
 #### Output:
 
-
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/79858fd5-c3e7-47b2-9ec2-1b442e690a25)
 
 Deklarasi Variabel dan Input Pengguna: Program dimulai dengan mendeklarasikan variabel n untuk menyimpan jumlah elemen array yang akan dimasukkan oleh pengguna. Selanjutnya, program meminta pengguna untuk memasukkan jumlah elemen array tersebut.
 
