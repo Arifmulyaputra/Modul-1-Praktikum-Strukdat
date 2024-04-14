@@ -188,6 +188,7 @@ int main() {
 
 ```
 #### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/2dc80830-0a5b-428e-b4e8-c99f9a12131a)
 
 
 Penjelasan:
@@ -268,6 +269,7 @@ int main() {
 
 ```
 Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/9f85ef17-64b2-48be-98f4-e502e9c3453c)
 
 
 
@@ -318,6 +320,7 @@ int main() {
 }
 ```
 #### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/c512f7ff-aba1-4fbf-b480-f2b3bd487738)
 
 
 Penjelasan:
