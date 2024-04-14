@@ -317,7 +317,8 @@ int main() {
 
 ```
 #### Output:
-![Uploading image.png…]()
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/13a56562-1ba4-4711-a974-101b0f78b972)
+
 
 
 Penjelasan:
