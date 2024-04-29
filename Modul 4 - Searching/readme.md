@@ -61,6 +61,7 @@ int main ()
 ```
 
 Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/4834ad5f-48c6-46c8-89cb-e844f35c61f3)
 
 
 Penjelasan:
@@ -157,6 +158,7 @@ int main() {
 }
 ```
 Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/7b8040e8-b139-4792-ad94-5ce2131a858d)
 
 Penjelasan:
 
@@ -211,6 +213,7 @@ int main() {
 
 ```
 #### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/b245b216-e6fe-484b-8c9c-d90a649a7a68)
 
 
 Penjelasan:
@@ -263,6 +266,7 @@ int main() {
 
 ```
 Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/520d1068-d39a-4677-bd25-17ad3e4ab1bc)
 
 
 Penjelasan:
@@ -313,6 +317,8 @@ int main() {
 
 ```
 #### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/13a56562-1ba4-4711-a974-101b0f78b972)
+
 
 
 Penjelasan:
