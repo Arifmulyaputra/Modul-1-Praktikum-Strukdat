@@ -227,6 +227,9 @@ int main() {
 }
 ```
 #### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/2b0ea141-560e-4c1b-ab7b-4b5dc9ca98c5)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/5855ceea-98b1-4d59-a07f-5cbc9621c29a)
+
 
 
 
