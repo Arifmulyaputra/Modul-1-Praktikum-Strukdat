@@ -230,6 +230,14 @@ int main() {
 ![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/2b0ea141-560e-4c1b-ab7b-4b5dc9ca98c5)
 ![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/5855ceea-98b1-4d59-a07f-5cbc9621c29a)
 
+Penjelasan:
+
+1. `struktur buku` didefinisikan dengan beberapa atribut seperti judul buku, pengarang, penerbit, tebal halaman, dan harga, masing-masing sebagai array dengan ukuran 5.
+2. Pada fungsi `main`, sebuah variabel `favorit` dari tipe buku dideklarasikan.
+3. Data diisi ke dalam array-array `favorit.judulBuku`, `favorit.pengarang`, `favorit.penerbit`, `favorit.tebalHalaman`, dan `favorit.hargaBuku` untuk mewakili informasi tentang buku-buku favorit.
+Melalui loop `for`, setiap buku dari variabel `favorit` ditampilkan ke layar dengan menggunakan `cout`, menampilkan judul, pengarang, penerbit, tebal halaman, dan harga buku masing-masing.
+
+
 #### 2.  Apa yang terjadi jika deklarasi variabel struct yang dibuat pada tugas guided I berjenis Array. Bagaimana cara mengisi data dan menampilkannya?
 
 Dengan menggunakan struktur yang berjenis array, kita dapat dengan mudah mengelola dan mengakses data dalam satu kesatuan, dalam hal ini, kumpulan buku favorit. Ini memudahkan pengelolaan data yang terkait dan menyediakan fleksibilitas dalam mengolah data secara berulang. Contoh:
@@ -293,18 +301,6 @@ Program ini mendefinisikan sebuah struktur bernama `buku` yang memiliki lima ang
 
 Pada fungsi `main()`, program mengisi data untuk dua buku ke dalam variabel `favorit` menggunakan loop `for`. Setiap iterasi loop meminta pengguna memasukkan informasi tentang buku, seperti judul, pengarang, penerbit, tebal halaman, dan harga buku. Setelah data dimasukkan, program menampilkan informasi buku favorit dengan melakukan iterasi melalui variabel `favorit` dan mencetak informasi setiap buku ke layar.
 
-
-
-
-
-
-
-Penjelasan:
-
-1. `struktur buku` didefinisikan dengan beberapa atribut seperti judul buku, pengarang, penerbit, tebal halaman, dan harga, masing-masing sebagai array dengan ukuran 5.
-2. Pada fungsi `main`, sebuah variabel `favorit` dari tipe buku dideklarasikan.
-3. Data diisi ke dalam array-array `favorit.judulBuku`, `favorit.pengarang`, `favorit.penerbit`, `favorit.tebalHalaman`, dan `favorit.hargaBuku` untuk mewakili informasi tentang buku-buku favorit.
-Melalui loop `for`, setiap buku dari variabel `favorit` ditampilkan ke layar dengan menggunakan `cout`, menampilkan judul, pengarang, penerbit, tebal halaman, dan harga buku masing-masing.
 
 ## Kesimpulan
 Struct dalam C++ adalah tipe data yang memungkinkan pengelompokkan beberapa variabel dengan tipe data yang berbeda menjadi satu kesatuan yang lebih kompleks. Deklarasi struct dilakukan dengan menyebutkan kata kunci `struct` diikuti oleh nama struct dan anggota-anggota variabelnya. Struct digunakan untuk menyimpan data terstruktur seperti data mahasiswa atau data buku. Anggota-anggota struct dapat diakses menggunakan nama struct yang diikuti dengan nama anggota struct tersebut. Dengan demikian, struct memberikan kemampuan yang berguna untuk mengorganisir dan mengelola data secara terstruktur dalam program C++.
