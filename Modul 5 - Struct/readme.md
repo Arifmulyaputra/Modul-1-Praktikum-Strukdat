@@ -293,6 +293,7 @@ int main() {
 }
 ```
 Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/0ddf57af-0271-49aa-9037-eb87e7c99d96)
 
 
 Penjelasan:
