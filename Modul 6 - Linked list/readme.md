@@ -941,6 +941,9 @@ int main() {
 }
 ```
 #### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/37d11c52-d72d-4090-9622-3cf39862b3b8)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/16a68710-1855-4116-86c0-d99b17388cfb)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/5715c800-d125-4e87-a953-bc689cf30985)
 
 
 Penjelasan:
