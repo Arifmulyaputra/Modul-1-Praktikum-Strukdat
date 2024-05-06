@@ -206,6 +206,7 @@ int main() {
 
 ```
 #### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/c20cb464-574b-43a6-8230-58f1180ffe7a)
 
 
 Penjelasan:
@@ -259,6 +260,7 @@ int main() {
 
 ```
 Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/ce1484a8-d50f-4b36-a71d-5e99882ad703)
 
 
 Penjelasan:
