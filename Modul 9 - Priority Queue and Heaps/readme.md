@@ -307,6 +307,7 @@ int main() {
 }
 ```
 #### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/a195b7f8-8f42-4224-84fa-5a8bf02f8226)
 
 
 Penjelasan:
