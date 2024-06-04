@@ -535,6 +535,10 @@ int main()
 }
 ```
 Output :
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/d84ab46e-1494-4803-aed6-3af698c580d7)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/7f4dcd2f-eb38-4046-986a-04554b0a7038)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/daae0e8b-9cf8-4e63-b20d-dc6293b76f68)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/5b678619-0501-4740-9dd6-529bbd865e6c)
 
 Penjelasan:
 
