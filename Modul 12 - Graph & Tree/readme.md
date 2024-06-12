@@ -222,7 +222,7 @@ void simpul_kota(int n, vector<string> &simpul, vector<vector<int>> &bobot)
 int main()
 {
     int n;
-    string Arif Mulya Putra;
+    string Arif_Mulya_Putra_2311110017;
 
     cout << "\nMasukkan jumlah simpul : ";
     cin >> n;
@@ -291,7 +291,7 @@ struct TNode
     int data;
     TNode *left;
     TNode *right;
-    string Muhammad_Azka_2311110049;
+    string Arif_Mulya_Putra_2311110017;
 
     TNode(int value)
     {
