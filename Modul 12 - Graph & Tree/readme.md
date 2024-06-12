@@ -255,6 +255,7 @@ int main()
 ```
 
 ### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/6a4f8070-b9f4-40f6-841d-cd9431ea37f0)
 
 
 ### Interpretasi
@@ -478,6 +479,9 @@ int main()
 ```
 
 ### Output:
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/c94664d8-5fe5-45c1-bc7c-f1efff2554c6)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/a00dc50f-96f1-4966-bb1e-a099f700854e)
+![image](https://github.com/Arifmulyaputra/Struktur-Data-Assignment/assets/161549884/0973cb93-ab76-4a85-a29c-6d7ae163a8cc)
 
 
 
